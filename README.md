@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://lohitkolluri.github.io/Old-Portfolio-Website/](https://lohitkolluri.github.io/Old-Portfolio-Website/)
+[https://gowtham310106.github.io/terminal-portfolio/](https://gowtham310106.github.io/terminal-portfolio/)
 
   
   
@@ -23,7 +23,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/lohitkolluri/Old-Portfolio-Website
+git clone https://github.com/Gowtham310106/terminal-portfolio.git
 ```
 
 <p>2. Go to the directory:</p>
