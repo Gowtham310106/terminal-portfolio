@@ -71,7 +71,7 @@ function router(cmd){
             break;
 
         case "email":
-            addLine('Opening mailto:<a href="mailto:lohitkolluri99@gmail.com">lohitkolluri99@gmail.com</a>...', "color2", 80);
+            addLine('Opening mailto:<a href="mailto:gowtham310106@gmail.com">gowtham310106@gmail.com</a>...', "color2", 80);
             openNewTab(email);
             break;
 

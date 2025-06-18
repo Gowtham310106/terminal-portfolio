@@ -1,13 +1,13 @@
-const linkedin = "https://www.linkedin.com/in/kollurilohit/";
-const github = "https://github.com/lohitkolluri/";
-const email = "mailto:lohitkolluri@gmail.com";
+const linkedin = "www.linkedin.com/in/gowtham-kumar-260080332";
+const github = "https://github.com/Gowtham310106/";
+const email = "mailto:gowtham310106@gmail.com";
 var today = new Date();
 
 about = [
   "<br>",
-  "Hey, I'm Lohit Kolluri! 👋",
+  "Hey, I'm Gowtham Kumar! 👋",
   "<br>",
-  "I'm a student at SRM University, Kattankulathur,.",
+  "I'm a student at Velammal Institute of technology, Chennai,.",
   "I love to build things that are useful and can have a positive impact on other people's lives.",
   "Having said that, I'm always ready to work on quirky projects",
   "I am always ready to explore new things and collaborate with others.",
@@ -21,13 +21,13 @@ about = [
 banner = [
   "<br>",
   '<span class = "index">' + String(today) + "</span>",
-  '<span class="index">Lohit Kolluri </span>',
+  '<span class="index">Gowtham Kumar </span>',
   "<br>",
-  "██╗      █████╗ ██╗  ██╗██╗████████╗",
-  "██║     ██╔══██╗██║  ██║██║╚══██╔══╝",
-  "██║     ██║  ██║███████║██║   ██║",
-  "██║     ██║  ██║██╔══██║██║   ██║",
-  "███████╗╚█████╔╝██║  ██║██║   ██║",
+  " ██████╗  ██████╗ ██╗    ██╗████████╗██╗  ██╗ █████╗ ███╗   ███╗",
+  "██╔════╝ ██╔═══██╗██║    ██║╚══██╔══╝██║  ██║██╔══██╗████╗ ████║",
+  "██║  ███╗██║   ██║██║ █╗ ██║   ██║   ███████║███████║██╔████╔██║",
+  "██║   ██║██║   ██║██║███╗██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║",
+  "╚██████╔╝╚██████╔╝╚███╔███╔╝   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██",
 
   "<br>",
   '<span class="color2">Welcome to my Portfolio Website..</span>',
@@ -55,28 +55,23 @@ social = [
   "<br>",
   'Linkedin       <a href="' +
     linkedin +
-    '" target="_blank">linkedin/kollurilohit' +
+    '" target="_blank">linkedin/Gowtham' +
     "</a>",
   'Github         <a href="' +
     github +
-    '" target="_blank">github/lohitkolluri' +
+    '" target="_blank">github/Gowtham' +
     "</a>",
   "<br>",
 ];
 
 projects = [
+ 
   "<br>",
-  '<span class="command">1. WeatherPedia</span>',
-  "<br>",
-  "<br>",
-  '<span class="command">2. Mental Health Fitness Tracker',
+  '<span class="command">1. Portfolio Website',
   "<br>",
   "<br>",
-  '<span class="command">3. Portfolio Website',
+  '<span class="command">2. Old Portfolio Website (This Website)</span>',
   "<br>",
-  "<br>",
-  '<span class="command">4. Old Portfolio Website (This Website)</span>',
-  "<br>",
-  'Click the following links to access all my projects: <a href = "https://github.com/lohitkolluri/" target="_blank">(Github)</a>',
+  'Click the following links to access all my projects: <a href = "https://github.com/Gowtham310106/" target="_blank">(Github)</a>',
   "<br>",
 ];
